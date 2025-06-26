@@ -22,8 +22,3 @@ output "sql_server_fqdn" {
   description = "FQDN para conectarse a la base de datos analítica"
   value = azurerm_mssql_server.sqlserver.fully_qualified_domain_name
 }
-
-output "data_lake_storage_url" {
-  description = "URL del Data Lake (Storage Account)"
-  value  = "https://${azurerm_storage_account.datalake.name}.dfs.core.windows.net/"
-}
