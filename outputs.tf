@@ -1,7 +1,3 @@
-output "id" {
-    value = data.azurerm_arc_resource_bridge_appliance.rba.id
-}
-
 output "data_factory_name" {
   description = "Azure Data Factory name created"
   value = azurerm_data_factory.etl.name
