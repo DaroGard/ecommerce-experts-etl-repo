@@ -1,5 +1,5 @@
 resource "azurerm_mssql_server" "sqlserver" {
-    name = "dbserver-${var.project}-${var.enviroment}-etl"
+    name = "dbserver-${var.project}-${var.enviroment}-etl-1234"
     resource_group_name = data.azurerm_resource_group.rg.name
     location = var.location
     version = "12.0"
