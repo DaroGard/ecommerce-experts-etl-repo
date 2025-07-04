@@ -32,8 +32,8 @@ Este repositorio contiene el código de infraestructura para la capa analítica 
 
 Este es uno de los tres repositorios que conforman la solución:
 
-1. `ecommerce-expertos-client-side-repo` → https://github.com/carlos-fl/ecommerce-expertos-client-side-repo
-2. `ecommerce-infra-nginx-erp-db` → https://github.com/sammycastl/ecommerce-infra-nginx-erp-db
+1. `ecommerce-expertos-client-side-repo` → (https://github.com/DaroGard/ecommerce-expertos-client-side-repo)
+2. `ecommerce-infra-nginx-erp-db` → (https://github.com/DaroGard/ecommerce-infra-nginx-erp-db)
 3. `ecommerce-experts-etl-repo` → ETL *(Este repositorio)*
 
 ---
